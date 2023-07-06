@@ -9,6 +9,7 @@ updates:
       spring-boot:
         patterns:
           - "spring-boot*"
+
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
